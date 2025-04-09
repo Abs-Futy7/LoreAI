@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatbot
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# LoreAI
+Flutter chatbot
+>>>>>>> 21ace2fdff14cc96d1f30625ea85f523f48929b7
