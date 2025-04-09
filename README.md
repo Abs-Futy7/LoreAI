@@ -1,0 +1,2 @@
+# LoreAI
+Flutter chatbot
